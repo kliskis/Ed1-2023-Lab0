@@ -7,5 +7,6 @@
         public int Edad { get; set;  }
         public string Profesion { get; set; }
         public string Direccion { get; set; }
+        public string DPI {get; set;}
     }
 }
