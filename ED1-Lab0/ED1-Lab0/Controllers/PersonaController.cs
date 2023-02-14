@@ -14,7 +14,7 @@ namespace ED1_Lab0.Controllers
         };
         public string Index()
         {
-            return "/Profesion para obtener profesion de persona, /Nombre para obtener el nombre /edad para obtener la edad / info para obtener la informacion completa de la persona";
+            return "hola mundo";
         }
 
         [HttpGet]
