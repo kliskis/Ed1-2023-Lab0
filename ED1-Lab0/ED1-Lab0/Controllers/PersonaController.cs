@@ -14,7 +14,7 @@ namespace ED1_Lab0.Controllers
         };
         public string Index()
         {
-            return "hola mundo";
+            return "/Nombre - Obtener nombre, /Profesion - Obtener profesion, /Edad - Obtener edad, /info - Obtener la informacion completa";
         }
 
         [HttpGet]
