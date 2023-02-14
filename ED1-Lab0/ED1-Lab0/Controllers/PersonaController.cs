@@ -14,7 +14,7 @@ namespace ED1_Lab0.Controllers
         };
         public string Index()
         {
-            return "Agregando Cambios";
+            return "/Profesion para profesion, /Nombre para obtener el nombre /edad para obtener la edad y / info para obtener la informacion completa de la persona";
         }
 
         [HttpGet]
