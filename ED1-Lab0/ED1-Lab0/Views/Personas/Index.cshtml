@@ -1,0 +1,30 @@
+﻿@model List<Persona>
+
+@{
+    ViewData["Title"] = "Lista de Personas";
+}
+<h1>@ViewData["Title"]</h1>
+<p>texto parrafo, intrucciones para el usuario, etc </p>
+<div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <td>Nombre</td>
+                <td>Edad</td>
+                <td>Profesion</td>
+                <td>DPI</td>
+            </tr>
+        </thead>
+
+        @foreach(var persona in Model)
+        {
+            <tr>
+                <td>@persona.Nombre</td>
+                <td>@persona.Edad</td>
+                <td>@persona.Profesion</td>
+                <td>@persona.DPI</td>
+            </tr>
+        }
+
+    </table>
+</div>

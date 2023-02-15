@@ -2,5 +2,6 @@
 {
     public class ListaPersonas
     {
+        public List<Persona> Personas { get; set; } = new List<Persona>();
     }
 }
