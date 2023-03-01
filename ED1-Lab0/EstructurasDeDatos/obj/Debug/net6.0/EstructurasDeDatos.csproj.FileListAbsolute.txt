@@ -1,0 +1,12 @@
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\bin\Debug\net6.0\EstructurasDeDatos.deps.json
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\bin\Debug\net6.0\EstructurasDeDatos.dll
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\bin\Debug\net6.0\EstructurasDeDatos.pdb
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\EstructurasDeDatos.csproj.AssemblyReference.cache
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\EstructurasDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\EstructurasDeDatos.AssemblyInfoInputs.cache
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\EstructurasDeDatos.AssemblyInfo.cs
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\EstructurasDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\EstructurasDeDatos.dll
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\refint\EstructurasDeDatos.dll
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\EstructurasDeDatos.pdb
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\EstructurasDeDatos\obj\Debug\net6.0\ref\EstructurasDeDatos.dll

@@ -1,0 +1,38 @@
+﻿@model List<Persona>
+
+@{
+    ViewData["Title"] = "Carga de Archivo";
+}
+<h1>@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("SubirArchivo", "CargaArchivos",FormMethod.Post,new {enctype = "multipart/form-data"}))
+{
+    <label>Subir Archivo</label>
+    <input type="file" name="archivo"/>
+    <input type="submit", value="Enviar"/>
+
+    @if(Model != null)
+    {
+        <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <td>Nombre</td>
+                        <td>DPI</td>
+                        <td>Edad</td>
+                        <td>Profesion</td>
+                    </tr>
+                </thead>
+
+            @foreach (var personaActual in Model)
+            {
+                        <tr>
+                            <td>@personaActual.Nombre</td>
+                            <td>@personaActual.DPI</td>
+                            <td>@personaActual.Edad</td>
+                            <td>@personaActual.Profesion</td>
+                        </tr>
+            }
+
+            </table>
+    }
+}

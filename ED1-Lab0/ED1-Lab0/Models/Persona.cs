@@ -9,5 +9,6 @@
         public string Direccion { get; set; }
         public string DPI {get; set;}
         public string Nacionalidad{get; set;}
+        public string tiempo { get; set; }   
     }
 }

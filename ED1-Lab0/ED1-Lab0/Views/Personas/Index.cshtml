@@ -1,28 +1,28 @@
 ﻿@model List<Persona>
 
 @{
-    ViewData["Title"] = "Lista de Personas";
+    ViewData["Title"] = " Lista de Personas ";
 }
 <h1>@ViewData["Title"]</h1>
-<p>texto parrafo, intrucciones para el usuario, etc </p>
+
 <div>
     <table class="table table-hover">
         <thead>
             <tr>
                 <td>Nombre</td>
+                <td>DPI</td>
                 <td>Edad</td>
                 <td>Profesion</td>
-                <td>DPI</td>
             </tr>
         </thead>
 
-        @foreach(var persona in Model)
+        @foreach(var personaActual in Model)
         {
             <tr>
-                <td>@persona.Nombre</td>
-                <td>@persona.Edad</td>
-                <td>@persona.Profesion</td>
-                <td>@persona.DPI</td>
+                <td>@personaActual.Nombre</td>
+                <td>@personaActual.DPI</td>
+                <td>@personaActual.Edad</td>
+                <td>@personaActual.Profesion</td>
             </tr>
         }
 

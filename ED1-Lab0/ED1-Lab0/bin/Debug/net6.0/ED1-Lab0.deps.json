@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ED1-Lab0/1.0.0": {
+        "dependencies": {
+          "EstructurasDeDatos": "1.0.0"
+        },
         "runtime": {
           "ED1-Lab0.dll": {}
+        }
+      },
+      "EstructurasDeDatos/1.0.0": {
+        "runtime": {
+          "EstructurasDeDatos.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ED1-Lab0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstructurasDeDatos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

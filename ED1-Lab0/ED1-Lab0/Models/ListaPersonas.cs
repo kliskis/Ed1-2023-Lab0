@@ -1,7 +1,9 @@
-﻿namespace ED1_Lab0.Models
+﻿using EstructurasDeDatos;
+
+namespace ED1_Lab0.Models
 {
     public class ListaPersonas
     {
-        public List<Persona> Personas { get; set; } = new List<Persona>();
+        public ListaEnlazada<Persona> ListaDePersonas = new ListaEnlazada<Persona>();
     }
 }

@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/karen/Desktop/Ed1-2023-Lab0/ED1-Lab0/ED1-Lab0/Views/CargaArchivos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ2FBcmNoaXZvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karen/Desktop/Ed1-2023-Lab0/ED1-Lab0/ED1-Lab0/Views/CargaArchivos/SubirArchivo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ2FBcmNoaXZvc1xTdWJpckFyY2hpdm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/karen/Desktop/Ed1-2023-Lab0/ED1-Lab0/ED1-Lab0/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,12 +32,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/karen/Desktop/Ed1-2023-Lab0/ED1-Lab0/ED1-Lab0/Views/Personas/CargarArchivo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcQ2FyZ2FyQXJjaGl2by5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/karen/Desktop/Ed1-2023-Lab0/ED1-Lab0/ED1-Lab0/Views/Personas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karen/Desktop/Ed1-2023-Lab0/ED1-Lab0/ED1-Lab0/Views/Personas/InsertarPersona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcSW5zZXJ0YXJQZXJzb25hLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/karen/Desktop/Ed1-2023-Lab0/ED1-Lab0/ED1-Lab0/Views/Shared/Error.cshtml]

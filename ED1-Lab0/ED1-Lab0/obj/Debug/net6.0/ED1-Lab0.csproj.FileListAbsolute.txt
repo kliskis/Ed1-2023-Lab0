@@ -37,6 +37,8 @@ C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\bin\Debug\net6.0\ED1-Lab0
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\bin\Debug\net6.0\ED1-Lab0.runtimeconfig.json
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\bin\Debug\net6.0\ED1-Lab0.dll
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\bin\Debug\net6.0\ED1-Lab0.pdb
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\bin\Debug\net6.0\EstructurasDeDatos.dll
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\bin\Debug\net6.0\EstructurasDeDatos.pdb
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\ED1-Lab0.csproj.AssemblyReference.cache
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\ED1-Lab0.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\ED1-Lab0.AssemblyInfoInputs.cache
@@ -55,6 +57,7 @@ C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\staticwe
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\scopedcss\bundle\ED1-Lab0.styles.css
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\scopedcss\projectbundle\ED1-Lab0.bundle.scp.css
+C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\ED1-Lab0.csproj.CopyComplete
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\ED1-Lab0.dll
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\refint\ED1-Lab0.dll
 C:\Users\karen\Desktop\Ed1-2023-Lab0\ED1-Lab0\ED1-Lab0\obj\Debug\net6.0\ED1-Lab0.pdb
